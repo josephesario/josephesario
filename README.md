@@ -224,6 +224,7 @@
 ---
 
 ### 📚 Courses and Certifications
+- [Digital credentialing](https://www.credly.com/users/jose-rodolfo-esapa-riochi)
 - [Bachelor's Degree in Computer Science](https://www.uopeople.edu/)
 - [Professional Diploma In Software Engineering](https://www.niit.com/ghana)
 - [IBM AI Developer](https://coursera.org/share/5ad9a0bbc1094e5aac2efe615b2f4a4c)
