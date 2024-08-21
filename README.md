@@ -174,7 +174,7 @@
   </a>
   
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-      <img src="https://grpc.io/img/grpc-logo.png" alt="grpc" width="40" height="40"/>
+      <img src="https://miro.medium.com/v2/resize:fit:387/1*hwMNFrwMAVyEUJ2XnVypew.png" alt="grpc" width="40" height="40"/>
   </a>
   
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
