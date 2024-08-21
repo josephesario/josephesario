@@ -100,6 +100,10 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
+  <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="ssms" width="40" height="40"/>
+</a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -178,12 +182,10 @@
   </a>
   
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/RESTful_Logo.svg/1280px-RESTful_Logo.svg.png" alt="rest-api" width="40" height="40"/>
+      <img src="https://e7.pngegg.com/pngimages/860/943/png-clipart-representational-state-transfer-application-programming-interface-drupal-laravel-github-github-blue-text.png" alt="rest-api" width="40" height="40"/>
   </a>
+
   
-  <a href="https://martinfowler.com/bliki/CQRS.html" target="_blank" rel="noreferrer">
-      <img src="https://www.martinfowler.com/bliki/images/cqrs.png" alt="cqrs" width="40" height="40"/>
-  </a>
 </p>
 
 ---
