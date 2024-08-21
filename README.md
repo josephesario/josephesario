@@ -34,6 +34,9 @@
   <a href="https://instagram.com/josephesario" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josephesario" height="30" width="40" />
   </a>
+  <a href="mailto:Joserodolfoesapa@gmail.com" target="blank">
+    <img align="center" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" alt="email" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -82,7 +85,9 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -150,41 +155,25 @@
 
 ---
 
-### 📈 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=josephesario&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&hide_border=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephesario&layout=compact&theme=radical&hide_title=true&hide_border=true)
-
----
-
-### 🧩 Most Used Languages
-<p align="left">
-  <a href="https://github.com/josephesario">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephesario&layout=compact&theme=radical&hide_title=true&hide_border=true" alt="Most Used Languages"/>
-  </a>
-</p>
-
----
-
 ### 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Scalable Web Application](https://medium.com/@josephesario/how-to-build-a-scalable-web-application-8d1c6e4f5d9a)
-- [Getting Started with .NET 7](https://medium.com/@josephesario/getting-started-with-net-7-0ef636c627e8)
-- [Understanding Python for Data Science](https://medium.com/@josephesario/understanding-python-for-data-science-f55f1a7dbf85)
+- [Exploring the Power of SignalR](https://www.linkedin.com/feed/update/urn:li:activity:7130695583220068352?utm_source=share&utm_medium=member_desktop)
+- [What's New in .NET 8: A Sneak Peek](https://www.linkedin.com/feed/update/urn:li:activity:7103374441178402816?utm_source=share&utm_medium=member_desktop)
+- [Join Us 24/7 Developers](https://www.linkedin.com/groups/12882793/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 ### 📚 Courses and Certifications
-- [Certified .NET Developer](https://www.certification.com)
-- [AWS Certified Solutions Architect](https://www.certification.com)
-- [Professional Java Developer](https://www.certification.com)
+- [IBM AI Developer](https://coursera.org/share/5ad9a0bbc1094e5aac2efe615b2f4a4c)
+- [Cloud Computing Law](https://coursera.org/share/07d839713525dd58d5d774131d9fc01b)
+- [Google IT Support](https://coursera.org/share/bf3c2261e993663df8bdc140c0a4ad43)
 
 ---
 
 ### 🎯 Goals for 2024
-- Develop a complete AI-driven data validation layer.
-- Master advanced features in Xamarin.Forms.
+- Develop a complete AI-driven data validation layer .
+- Master advanced features in c# and computer science.
 - Contribute to open-source projects and expand my knowledge in cloud computing.
 
 ---
