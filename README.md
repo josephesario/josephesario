@@ -9,16 +9,8 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=josephesario&show_icons=true&hide_title=true&hide=prs,issues&count_private=true&theme=dark" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephesario&layout=compact&theme=dark" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-rodolfo&show_icons=true&theme=dark)](https://github.com/jose-rodolfo/github-readme-stats)
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=josephesario&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
