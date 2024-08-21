@@ -50,7 +50,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josephesario" height="30" width="40" />
   </a>
   <a href="mailto:Joserodolfoesapa@gmail.com" target="blank">
-    <img align="center" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" alt="email" height="30" width="40" />
+    <img align="center" src="https://th.bing.com/th/id/R.07ff0efc149a62a75a76c8010546a169?rik=hMjfTNrguIP4Dg&pid=ImgRaw&r=0" alt="email" height="30" width="40" />
   </a>
 </p>
 
