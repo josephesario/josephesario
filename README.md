@@ -5,6 +5,21 @@
 
 <img align="right" alt="Coding" width="350" src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0"/>
 
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=josephesario&show_icons=true&hide_title=true&hide=prs,issues&count_private=true&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephesario&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=josephesario&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
@@ -85,9 +100,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -106,77 +118,89 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="40" height="40"/>
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/raspberry_pi/raspberry_pi-icon.svg" alt="raspberrypi" width="40" height="40"/>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <a href="https://www.unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40"/>
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jetbrains_rider/jetbrains_rider-icon.svg" alt="rider" width="40" height="40"/>
   </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.wpf.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WPF_logo_%28Windows_Presentation_Foundation%29.svg/768px-WPF_logo_%28Windows_Presentation_Foundation%29.svg.png" alt="wpf" width="40" height="40"/>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-### 📖 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Exploring the Power of SignalR](https://www.linkedin.com/feed/update/urn:li:activity:7130695583220068352?utm_source=share&utm_medium=member_desktop)
-- [What's New in .NET 8: A Sneak Peek](https://www.linkedin.com/feed/update/urn:li:activity:7103374441178402816?utm_source=share&utm_medium=member_desktop)
-- [Join Us 24/7 Developers](https://www.linkedin.com/groups/12882793/)
-<!-- BLOG-POST-LIST:END -->
+### 📈 Recent Activity
+<!--START_SECTION:activity-->
+1. 🔥 **Added new feature** to Merchant Trace: Integrated real-time analytics dashboard
+2. 🌟 **Optimized** the existing codebase for better performance in Sukerton
+3. 🛠️ **Fixed** a critical bug in the live streaming feature of the Xamarin app
+4. 📊 **Updated** dependencies in .NET and Xamarin projects for improved stability
+<!--END_SECTION:activity-->
 
 ---
 
-### 📚 Courses and Certifications
-- [IBM AI Developer](https://coursera.org/share/5ad9a0bbc1094e5aac2efe615b2f4a4c)
-- [Cloud Computing Law](https://coursera.org/share/07d839713525dd58d5d774131d9fc01b)
-- [Google IT Support](https://coursera.org/share/bf3c2261e993663df8bdc140c0a4ad43)
+### 🤝 Support
+- If you want to support me, please follow my GitHub profile or connect with me on [LinkedIn](https://www.linkedin.com/groups/12882793/).
 
 ---
 
-### 🎯 Goals for 2024
-- Develop a complete AI-driven data validation layer .
-- Master advanced features in c# and computer science.
-- Contribute to open-source projects and expand my knowledge in cloud computing.
+### 🎯 My Projects
+- **[Merchant Trace](https://github.com/josephesario/merchant-trace)**: An innovative platform for merchant management.
+- **[Sukerton](https://github.com/josephesario/sukerton)**: AI-driven data validation layer.
+- **[Xamarin Live Stream App](https://github.com/josephesario/xamarin-live-stream)**: Real-time video streaming application using Agora.
 
 ---
 
-<h2>🌟 Thank you for visiting my profile! 🌟</h2>
+### 💬 FAQs
+**Q: How can I collaborate with you?**  
+**A:** Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/groups/12882793/) or [email](mailto:Joserodolfoesapa@gmail.com).
+
+**Q: Do you offer mentoring or coaching?**  
+**A:** At the moment, I focus on personal and professional projects but am open to discussions on collaboration and mentorship.
+
+---
+
+### 🏆 Achievements
+- **Top Contributor** to various open-source projects
+- **Featured Developer** in community showcases
+- **Recognized Innovator** in software engineering circles
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities.
 
