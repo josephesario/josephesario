@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Stats
 
-[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-rodolfo&show_icons=true&theme=dark)](https://github.com/jose-rodolfo/github-readme-stats)
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-rodolfo&show_icons=true&theme=dark)](https://github.com/jose-rodolfo/github-readme-stats)
 
 
 <p align="left">
