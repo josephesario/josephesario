@@ -220,6 +220,22 @@
 
 ---
 
+### 📖 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Exploring the Power of SignalR](https://www.linkedin.com/feed/update/urn:li:activity:7130695583220068352?utm_source=share&utm_medium=member_desktop)
+- [What's New in .NET 8: A Sneak Peek](https://www.linkedin.com/feed/update/urn:li:activity:7103374441178402816?utm_source=share&utm_medium=member_desktop)
+- [Join Us 24/7 Developers](https://www.linkedin.com/groups/12882793/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📚 Courses and Certifications
+- [IBM AI Developer](https://coursera.org/share/5ad9a0bbc1094e5aac2efe615b2f4a4c)
+- [Cloud Computing Law](https://coursera.org/share/07d839713525dd58d5d774131d9fc01b)
+- [Google IT Support](https://coursera.org/share/bf3c2261e993663df8bdc140c0a4ad43)
+
+---
+
 ### 🏆 Achievements
 - **Best Software Engineering Student** NIIT Ghana 2022
 
