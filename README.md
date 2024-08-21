@@ -224,7 +224,7 @@
 ---
 
 ### 📚 Courses and Certifications
-- [Batchelor's Degree In Computer science](https://www.uopeople.edu/)
+- [Bachelor's Degree in Computer Science](https://www.uopeople.edu/)
 - [Professional Diploma In Software Engineering](https://www.niit.com/ghana)
 - [IBM AI Developer](https://coursera.org/share/5ad9a0bbc1094e5aac2efe615b2f4a4c)
 - [Cloud Computing Law](https://coursera.org/share/07d839713525dd58d5d774131d9fc01b)
