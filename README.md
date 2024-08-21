@@ -170,7 +170,7 @@
   </a>
   
   <a href="https://learn.microsoft.com/en-us/aspnet/signalr/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="signalr" width="40" height="40"/>
+      <img src="https://www.artofdata.com/wp-content/uploads/2019/06/signalr-logo.png" alt="signalr" width="40" height="40"/>
   </a>
   
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
