@@ -101,7 +101,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="ssms" width="40" height="40"/>
+    <img src="https://th.bing.com/th/id/R.07ff0efc149a62a75a76c8010546a169?rik=hMjfTNrguIP4Dg&pid=ImgRaw&r=0" alt="ssms" width="40" height="40"/>
 </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
