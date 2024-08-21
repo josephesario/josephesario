@@ -9,9 +9,16 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephesario&show_icons=true&hide_title=true&hide=prs,issues&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephesario&layout=compact&theme=dark)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=josephesario&show_icons=true&hide_title=true&hide=prs,issues&count_private=true&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephesario&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=josephesario&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
