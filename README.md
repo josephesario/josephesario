@@ -202,12 +202,6 @@
 ### 🤝 Support
 - If you want to support me, please follow my GitHub profile or connect with me on [LinkedIn](https://www.linkedin.com/groups/12882793/).
 
----
-
-### 🎯 My Projects
-- **[Merchant Trace](https://github.com/josephesario/merchant-trace)**: An innovative platform for merchant management.
-- **[Sukerton](https://github.com/josephesario/sukerton)**: AI-driven data validation layer.
-- **[Xamarin Live Stream App](https://github.com/josephesario/xamarin-live-stream)**: Real-time video streaming application using Agora.
 
 ---
 
@@ -230,9 +224,20 @@
 ---
 
 ### 📚 Courses and Certifications
+- [Batchelor's Degree In Computer science](https://www.uopeople.edu/)
+- [Professional Diploma In Software Engineering](https://www.niit.com/ghana)
 - [IBM AI Developer](https://coursera.org/share/5ad9a0bbc1094e5aac2efe615b2f4a4c)
 - [Cloud Computing Law](https://coursera.org/share/07d839713525dd58d5d774131d9fc01b)
 - [Google IT Support](https://coursera.org/share/bf3c2261e993663df8bdc140c0a4ad43)
+- [Machine Learning with Python](https://coursera.org/share/024b7ad35e11e65979d24820651d0623)
+- [Python for Data Science, AI & Development](https://coursera.org/share/5efcfbf8923aa3bb742d39a3414228aa)
+- [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://coursera.org/share/7364bbb79271523cb25c6e8216b3f970)
+- [Leading Teams: Building Effective Team Cultures](https://coursera.org/share/31627f7de475d8166255c2a5ce7893ed)
+- [Technical Support Fundamentals](https://coursera.org/share/b61a241ffd5b7879f35d411c252e4666)
+- [Leading Teams: Developing as a Leader](https://coursera.org/share/be38ef92d31de8f8b0bb5b9d87272540)
+- [Foundations of strategic business analytics](https://coursera.org/share/e4c794fe63a6cc3d9a227ac501d58725)
+- [Foundations of User Experience (UX) Design](https://coursera.org/share/189f83af4ec8584d39cfcab5879e5515)
+- 
 
 ---
 
