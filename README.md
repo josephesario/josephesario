@@ -235,7 +235,15 @@
 - [Leading Teams: Developing as a Leader](https://coursera.org/share/be38ef92d31de8f8b0bb5b9d87272540)
 - [Foundations of strategic business analytics](https://coursera.org/share/e4c794fe63a6cc3d9a227ac501d58725)
 - [Foundations of User Experience (UX) Design](https://coursera.org/share/189f83af4ec8584d39cfcab5879e5515)
+
   
+
+---
+
+## GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast&hide_border=true)
+
 
 ---
 
