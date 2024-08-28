@@ -242,7 +242,7 @@
 
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast&hide_border=true&background=0D1117&stroke=7E37D8&ring=FFA500&fire=DD2727&currStreakLabel=FFA500)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Josephesario&theme=highcontrast&hide_border=true&background=0D1117&stroke=7E37D8&ring=FFA500&fire=DD2727&currStreakLabel=FFA500)
 
 
 
