@@ -32,6 +32,130 @@
 
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #282c34;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+        #gameCanvas {
+            background-color: #000;
+            border: 1px solid #fff;
+        }
+    </style>
+    <title>Snake Game</title>
+</head>
+<body>
+    <canvas id="gameCanvas" width="400" height="400"></canvas>
+    <script>
+        const canvas = document.getElementById("gameCanvas");
+        const ctx = canvas.getContext("2d");
+
+        const gridSize = 20;
+        const tileCount = canvas.width / gridSize;
+
+        let snake = [
+            { x: 8, y: 8 },
+            { x: 7, y: 8 },
+            { x: 6, y: 8 }
+        ];
+        let direction = { x: 1, y: 0 };
+        let apple = { x: 12, y: 12 };
+        let score = 0;
+
+        function gameLoop() {
+            update();
+            draw();
+            setTimeout(gameLoop, 100);
+        }
+
+        function update() {
+            const head = { x: snake[0].x + direction.x, y: snake[0].y + direction.y };
+
+            if (head.x === apple.x && head.y === apple.y) {
+                snake.push({});
+                score += 10;
+                apple.x = Math.floor(Math.random() * tileCount);
+                apple.y = Math.floor(Math.random() * tileCount);
+            } else {
+                snake.pop();
+            }
+
+            snake.unshift(head);
+
+            if (head.x < 0 || head.x >= tileCount || head.y < 0 || head.y >= tileCount || snakeCollision(head)) {
+                resetGame();
+            }
+        }
+
+        function snakeCollision(head) {
+            for (let i = 1; i < snake.length; i++) {
+                if (snake[i].x === head.x && snake[i].y === head.y) {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        function resetGame() {
+            snake = [
+                { x: 8, y: 8 },
+                { x: 7, y: 8 },
+                { x: 6, y: 8 }
+            ];
+            direction = { x: 1, y: 0 };
+            score = 0;
+        }
+
+        function draw() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            ctx.fillStyle = "lime";
+            snake.forEach(segment => {
+                ctx.fillRect(segment.x * gridSize, segment.y * gridSize, gridSize, gridSize);
+            });
+
+            ctx.fillStyle = "red";
+            ctx.fillRect(apple.x * gridSize, apple.y * gridSize, gridSize, gridSize);
+
+            ctx.fillStyle = "white";
+            ctx.fillText("Score: " + score, 10, canvas.height - 10);
+        }
+
+        window.addEventListener("keydown", event => {
+            switch (event.key) {
+                case "ArrowUp":
+                    if (direction.y === 0) direction = { x: 0, y: -1 };
+                    break;
+                case "ArrowDown":
+                    if (direction.y === 0) direction = { x: 0, y: 1 };
+                    break;
+                case "ArrowLeft":
+                    if (direction.x === 0) direction = { x: -1, y: 0 };
+                    break;
+                case "ArrowRight":
+                    if (direction.x === 0) direction = { x: 1, y: 0 };
+                    break;
+            }
+        });
+
+        gameLoop();
+    </script>
+</body>
+</html>
+
+---
+
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on ** [Securton](https://www.nuget.org/packages?q=securton)**
 - 🌱 I’m currently learning **Figma, MQL5**
