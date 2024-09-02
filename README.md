@@ -256,7 +256,7 @@
 If you enjoy my projects or find value in what I share, you can support my work by buying me a coffee! Your support helps me continue learning, growing, and contributing to the community.
 
 <a href="https://www.buymeacoffee.com/esario">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" style="width:200px;height:50px;">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" style="width:200px;height:40px;">
 </a>
 
 
