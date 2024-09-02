@@ -242,10 +242,7 @@
 ---
 
 ### 🔥 GitHub Streak 🔥
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josephesario&theme=highcontrast&hide_border=true&background=0D1117&stroke=7E37D8&ring=FFA500&fire=DD2727&currStreakLabel=FFA500" alt="GitHub Streak" width="600" height="200">
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Josephesario&theme=highcontrast&hide_border=true&background=0D1117&stroke=7E37D8&ring=FFA500&fire=DD2727&currStreakLabel=FFA500)
 
 ---
 
@@ -258,7 +255,9 @@
 ### ☕ Support My Work
 If you enjoy my projects or find value in what I share, you can support my work by buying me a coffee! Your support helps me continue learning, growing, and contributing to the community.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/esario)
+<a href="https://www.buymeacoffee.com/esario">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" style="width:200px;height:50px;">
+</a>
 
 
 ---
