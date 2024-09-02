@@ -249,6 +249,10 @@
 
 ---
 
+[buy me a coffee!](https://www.buymeacoffee.com/esario)
+
+---
+
 ### 🏆 Achievements
 - **Best Software Engineering Student** NIIT Ghana 2022
 
