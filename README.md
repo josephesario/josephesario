@@ -249,16 +249,17 @@
 
 ---
 
+
+### 🏆 Achievements
+- **Best Software Engineering Student** NIIT Ghana 2022
+
+---
+
 ### ☕ Support My Work
 If you enjoy my projects or find value in what I share, you can support my work by buying me a coffee! Your support helps me continue learning, growing, and contributing to the community.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/esario)
 
-
----
-
-### 🏆 Achievements
-- **Best Software Engineering Student** NIIT Ghana 2022
 
 ---
 
