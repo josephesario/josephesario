@@ -35,7 +35,7 @@
 
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on ** [Securton](https://www.nuget.org/packages?q=securton)**
+- 🔭 I’m currently working on ** [Securton](https://www.nuget.org/packages?q=securton)** and **[GeoCapitalData](https://www.nuget.org/packages?q=GeoCapitalData&includeComputedFrameworks=true&prerel=true&sortby=relevance) **
 - 🌱 I’m currently learning **Figma, MQL5**
 - 👯 I’m looking to collaborate on **Building A Library**
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/groups/12882793/)
