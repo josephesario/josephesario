@@ -41,7 +41,7 @@
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/groups/12882793/)
 - 💬 Ask me about **.NET**
 - 📫 How to reach me: **Joserodolfoesapa@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1cZ5hm3BT-YogVeMcAnKUbchTKr0GpBcN/view?usp=sharing) [website](https://bold.pro/my/esario-240911070528)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1cZ5hm3BT-YogVeMcAnKUbchTKr0GpBcN/view?usp=sharing) | [website](https://bold.pro/my/esario-240911070528)
 - ⚡ Fun fact: **Ada Lovelace wrote the first algorithm for Charles Babbage's Analytical Engine, making her the world's first computer programmer!**
 
 ---
