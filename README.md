@@ -42,7 +42,7 @@ https://www.nuget.org/packages?q=securton)** and **[GeoCapitalData](https://www.
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/groups/12882793/)
 - 💬 Ask me about **.NET**
 - 📫 How to reach me: **Joserodolfoesapa@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1eGSGpIdtfBcRQASjDxY1OkzdJCc8ihOY/view?usp=sharing) | [website](https://bold.pro/my/esario-240911070528)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1e2DkF3-l6d41mcDdPnqnEjQfisTUK7qQ/view?usp=sharing) | [website](https://bold.pro/my/esario-240911070528)
 - ⚡ Fun fact: **Ada Lovelace wrote the first algorithm for Charles Babbage's Analytical Engine, making her the world's first computer programmer!**
 
 ---
