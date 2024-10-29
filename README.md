@@ -1,4 +1,9 @@
-![MasterHead](<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 200">
+![MasterHead]()
+
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 200">
   <!-- Background with gradient -->
   <defs>
     <linearGradient id="backgroundGradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -65,7 +70,14 @@
     <text x="1700" y="160">10110011</text>
     <text x="500" y="180">01100101</text>
   </g>
-</svg>)
+</svg>
+
+
+
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Esario</h1>
 <h3 align="center">A Passionate Full Stack Software Engineer</h3>
