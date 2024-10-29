@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/dd/5c/d5/dd5cd562639c7812f862a944806c16eb.jpg)
+![MasterHead](https://c8.alamy.com/comp/RYKK15/africa-banner-vector-illustration-of-safari-animals-tribal-symbols-RYKK15.jpg)
 
 <h1 align="center">Hi 👋, I'm Esario</h1>
 <h3 align="center">A Passionate Full Stack Software Engineer</h3>
