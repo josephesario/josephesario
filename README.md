@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHnUSNW1noCkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700843972367?e=1729728000&v=beta&t=Ua3Vq24gN4UkuWtclzOOI_WkVPvA7r0wre8PbWl8vL8)
+![MasterHead](https://i.pinimg.com/originals/dd/5c/d5/dd5cd562639c7812f862a944806c16eb.jpg)
 
 <h1 align="center">Hi 👋, I'm Esario</h1>
 <h3 align="center">A Passionate Full Stack Software Engineer</h3>
