@@ -1,4 +1,4 @@
-![MasterHead]([https://c8.alamy.com/comp/RYKK15/africa-banner-vector-illustration-of-safari-animals-tribal-symbols-RYKK15.jpg](https://img.readthistwice.com/unsafe/828x166/lists/best-c-sharp-books.jpg))
+![MasterHead](https://img.readthistwice.com/unsafe/828x166/lists/best-c-sharp-books.jpg)
 
 <h1 align="center">Hi 👋, I'm Esario</h1>
 <h3 align="center">A Passionate Full Stack Software Engineer</h3>
