@@ -1,4 +1,4 @@
-![MasterHead](https://mega.nz/file/ictBxIJT#J_OAbiJHaPPpw-e32DbTCtpC_Dm6KuqkcRHm2zGNOBI)
+![MasterHead](blob:https://mega.nz/26ddaee7-55fc-4856-84e7-8f15c1dcb7d2)
 
 
 <h1 align="center">Hi 👋, I'm Esario</h1>
