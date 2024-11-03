@@ -1,11 +1,5 @@
-<!-- Method 1: Direct reference if the SVG is in the same repository -->
-![Esario Banner](./banner.svg)
+<img align="right" alt="Coding" width="350" src="https://previews.dropbox.com/p/thumb/ACd_wKD6VpljRu5yn8HVU7-g7BsuNi6vm7RthfN2UfFIXaNtSWhN6p1uEc7LWhP1zglnR7_7JliaQqSCFZC-FJurPW_tKO9H3kNtcDS_g3Ur43Tt57J-xc1dkBLCF3SFEFB_AvHmO7UPWVM4kUhcIcfP717ta8fTmc7jLW19Tq99Ky_fFPl71jMNRuuyj3jrVpacQXltkhCL9gNvJSKPzjbKDcRe9eVL-3qJMtDcCnYpyXbdz92GDwzsPwKWkxbdNwPpCFqYEr9z406HkYh_sgziv1sG7bJT5k5GzGAMQ4X434Vv01wcTr1ohvewCxBTnT-kC2Ggf_jnL71EKprEZBa2/p.gif?is_prewarmed=true"/>
 
-<!-- Method 2: Using the raw GitHub URL -->
-![Esario Banner](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/main/banner.svg)
-
-<!-- Method 3: Using HTML tag for more control -->
-<img src="./banner.svg" alt="Esario Banner" width="1680" />
 
 <h1 align="center">Hi 👋, I'm Esario</h1>
 <h3 align="center">A Passionate Full Stack Software Engineer</h3>
