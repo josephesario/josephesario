@@ -1,4 +1,4 @@
-<img  src="https://previews.dropbox.com/p/thumb/ACepkByjUrt7cuJOyb9Aau9z80bTX4CnaPGfDzrjuqYoZtzEzAEnBK3_7o0rdDvsQfOxbUytON5PHE26vyoupb42_NoECMnh7Kp7coDQmp0nQyD_s6GuZas3bDGEdFrQycCXJMDt3hTMwcFxGDvqE9GvJqjHDlTnH1JrGxKFhvpab9HWlfDRNYB4etE_ubZdMH4pHq_MKaloAETigXSVBtvOW-C61f9RtHjXEU2De3Ww1oa69tyBSbsYe3LpAbYITkFZAn_ABmiYb9-zvO8CDiQ1w9pcnliDxJ022xB9TXcsFhIwwZSdM4Ro3aZuKfLO0Q4/p.gif"/>
+<img  src="https://media.licdn.com/dms/image/v2/D4D16AQGESYCJ1nBk4Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730673472998?e=1736380800&v=beta&t=S5kxamaSQEwpfRuPrX64xbUANbCj2LaL5O7fldnJIFk"/>
 
 
 <h1 align="center">Hi 👋, I'm Esario</h1>
