@@ -5,7 +5,6 @@
     src="https://www.canva.com/design/DAGWe4uikNM/LEKCX5lrSIRziNrL1Eyr5w/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGWe4uikNM&#x2F;LEKCX5lrSIRziNrL1Eyr5w&#x2F;view?utm_content=DAGWe4uikNM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black and Yellow Web Developer LinkedIn Banner</a> by Jose Rodolfo Esapa Riochi
 
 <h1 align="center">Hi 👋, I'm Esario</h1>
 <h3 align="center">A Passionate Full Stack Software Engineer</h3>
