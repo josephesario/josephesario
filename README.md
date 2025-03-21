@@ -1,4 +1,4 @@
-<img src = "https://media.licdn.com/dms/image/v2/D4D16AQEFXshkEOeOaQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731613878738?e=1736985600&v=beta&t=Wa8K3_5RCouze4Dx414uvlX4NI9Zw5nTwJS8Vst1Dds"/>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYIowPilUF4x_88XzA1I0xeUCG7BCGpISGCw&s"/>
 
 
 <h1 align="center">Hi 👋, I'm Esario</h1>
