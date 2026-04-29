@@ -48,17 +48,6 @@ https://www.nuget.org/packages?q=securton)** and **[GeoCapitalData](https://www.
 
 ---
 
-### Connect with Me
-<p>
-  <a href="https://instagram.com/joseph_esario" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josephesario" height="30" width="40" />
-  </a>
-  <a href="mailto:Joserodolfoesapa@gmail.com" target="blank">
-    <img align="center" src="https://th.bing.com/th/id/R.4d6db56fe0851ae7635b0dfd1cd86a72?rik=lK4d8jxpm0EqAw&pid=ImgRaw&r=0" alt="email" height="30" width="40" />
-  </a>
-</p>
-
----
 
 ### 📈 Recent Activity
 <!--START_SECTION:activity-->
